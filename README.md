@@ -1,5 +1,6 @@
 # 提问的智慧-Galgame版
-
+> [![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#Contributors ✨)
+>
 > **How To Ask Questions The Smart Way**
 >
 > Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
@@ -15,6 +16,7 @@
 > 协助指出翻译问题，**请[发 issue](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/issues/new)，或直接[发 pull request](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/compare) 给我。**
 >
 > 本文另有[繁體中文版](README.md)。
+>
 
 **上述文本为原中文翻译版本附带说明，感谢你们的翻译**
 
@@ -29,7 +31,6 @@
 ## [原文版本历史](history.md)
 
 ## 目录
-
   * [声明](#声明)
   * [简介](#简介)
   * [在提问之前](#在提问之前)
@@ -91,10 +92,10 @@
 
 在你准备要通过网络群组或论坛提出技术问题前，请先做到以下事情：
 
-    1. 尝试上网搜索以找到答案。
-    2. 尝试阅读资源发布者留下的说明信息以找到答案。
-    3. 尝试自己检查或试验以找到答案。
-    4. 向你身边的 Galgame 大神朋友打听以找到答案。
+  1. 尝试上网搜索以找到答案。
+  2. 尝试阅读资源发布者留下的说明信息以找到答案。
+  3. 尝试自己检查或试验以找到答案。
+  4. 向你身边的 Galgame 大神朋友打听以找到答案。
 
 当你提出问题的时候，请先表明你已经做了上述的努力；这将有助于树立你并不是一个不劳而获且浪费别人的时间的提问者。如果你能一并表达在做了上述努力的过程中所**学到**的东西会更好，因为我们更乐于回答那些表现出能从答案中学习的人的问题。
 
@@ -225,7 +226,6 @@
 经常寻求技术帮助的人在心中有个更高层次的目标，而他们在自以为能达到目标的特定道路上被卡住了，然后跑来问该怎么走，但没有意识到这条路本身就有问题。结果要费很大的劲才能搞定。
 
 **蠢问题**
-
 > 我该怎么在 Galgame 里自制黄油？
 
 **聪明问题**
@@ -359,49 +359,41 @@
 回答：（一看是千恋万花）烂大街的东西难道还有人不会搜？
 
 <a id="q2"></a>
-
 > 问题：RAR的游戏怎么玩？
 
 回答：你可以尝试给RAR公司付费。
 
 <a id="q3"></a>
-
 >问题：怎么激活？
 
 回答：你看来需要激活激活自己的大脑。
 
 <a id="q4"></a>
-
 > 问题：网盘地址在哪？
 
 回答：在你的心里。
 
 <a id="q5"></a>
-
 > 问题：后缀名7z一般是什么模拟器？
 
 回答：这TM什么问题。
 
 <a id="q6"></a>
-
 > 问题：用QQ浏览器解压怎么打不开啊？
 
 回答：你用垃圾糟粕能打开就有鬼了。
 
 <a id="q7"></a>
-
 > 问题：密码是中文吗？
 
 回答：其实是俄文，日文，法文，德文，就不是中文。
 
 <a id="q8"></a>
-
 > 问题：找不到下载路径啊？
 
 回答：玩手机玩傻了。
 
 <a id="q9"></a>
-
 > 问题：全年龄怎么没有H桥段？
 
 回答：你脑袋怎么是尖尖的。
@@ -546,5 +538,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.yidajiabei.xyz"><img src="https://avatars.githubusercontent.com/u/52186032?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tianheg</b></sub></a><br /><a href="#translation-tianheg" title="Translation">🌍</a></td>
   </tr>
 </table>
-
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
